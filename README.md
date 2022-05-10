@@ -1,4 +1,4 @@
-# 신입 개발자 이진영입니다.
+# 성실함에 있어 깨닫는 신입 개발자 이진영입니다.
 
 ![Untitled](https://user-images.githubusercontent.com/48014869/167559998-78a3f653-fc1f-443c-8a29-ffef8f3a8f60.png)
 
