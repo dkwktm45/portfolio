@@ -1,6 +1,6 @@
 # 신입 개발자 이진영입니다.
 
-![Untitled](%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1%206b0fae50d24942dbbbf6ed76d2979e99/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/48014869/167559998-78a3f653-fc1f-443c-8a29-ffef8f3a8f60.png)
 
 **✉️ wpekdl153@gmail.com**
 
